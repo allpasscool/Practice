@@ -18,16 +18,16 @@ class HW2 {
             System.out.println("line 18");
         else
             System.out.println("line 20");
-        // else if (i < 10)
-        //     System.out.println("line 22");
+        else if (i < 10)
+            System.out.println("line 22");
 
         if (true)
             System.out.println("line 25");
         System.out.println("line 26");
-        // else if(true)
-        //     System.out.println("line 28");
-        // else
-        //     System.out.println("line 30");
+        else if(true)
+            System.out.println("line 28");
+        else
+            System.out.println("line 30");
 
         if (!false)
             System.out.println("line 33");
